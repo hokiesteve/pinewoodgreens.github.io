@@ -1,2 +1,4 @@
+baseurl: /pinewoodgreens.github.io
+
 kramdown:
   input: GFM
