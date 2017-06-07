@@ -1,16 +1,21 @@
-#### Pool Opens Saturday, May 23
+#### Community Cleanup - April 22
 
-The pool opens on May, 23.  Pool passes are required.  If you haven't already submitted your [pool pass application](https://skydrive.live.com/redir?resid=529E6218CA92DA58%211548), please do so as soon as possible.
+Our annual community cleanup will be April 22 from 8AM-12PM. We desperately need your help!  Show up any time you like, and we'll:
 
-#### Neighborhood Cleanup May 30 9am-12pm
+* Give some of you gloves and bags, and we'll tidy things up. 
+* Give others some information to share with neighbors, spreading the word on how to help keep our neighborhood clean.
+Please, come and help make a difference in the community!
 
-Please join us on May the 30th at 9 a.m. Meet at the community center. We will be walking around, picking up trash around different parts of the neighborhood.
+#### Neighborhood Yard Sale - May 6
 
-#### Management Transition
+The annual neighborhood yard sale will be May 6 from 8AM-12PM. Clear out some space in your home and make some money! In the past, we have averaged around 30 homes that participate, and it's a lot of fun.
 
-As of May 1st, 2015, Pinewood Greens is managed by [Community Association Management Professionals (CAMP)](http://www.gocampmgmt.com/).  New electronic payment options are now available.  See [Management Transition News](transition.html) for more information.
+See more details [here]({{site.baseurl}}/2017/04/04/Neighborhood-Yard-Sale.html)
+
+#### Community Tool Shed
+
+The Pinewood Greens Lending Shed Program is up and running.  We have tools and other equipment available to borrow at no charge. Check out our [tool lending shed page](toolshed.html) for more details.
 
 #### Online Architectural Application Submissions
 
 Applications for Architecture Committee review of exterior modifications may now be submitted online through the [resident portal](http://www.ciranet.com/ResidentPortal).
-
